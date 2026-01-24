@@ -1,30 +1,9 @@
 <h2>👋 Hi, I'm Ahmad Musleh</h2>
 <p>
-  <strong>Software Engineering Student</strong><br/>
-  Fourth-year student at An-Najah National University
+  <strong>Software Engineering Student</strong>
 </p>
 
-<p>
-  📍 Palestine – Salfeet <br/>
-  📧 s12217787@stu.najah.edu <br/>
-  📞 +972569315404
-</p>
 
-<hr/>
-
-<h3>🎓 Education</h3>
-<p>
-  <strong>An-Najah National University</strong> (2022 – Present)<br/>
-  Computer Science – Software Engineering Path
-</p>
-
-<hr/>
-
-<h3>💼 Experience</h3>
-<p>
-  <strong>Backend Intern – Java Spring Boot</strong><br/>
-  Exalt Technologies Ltd, Nablus (07/2025 – 09/2025)
-</p>
 <ul>
   <li>Participated in a professional backend development training program</li>
   <li>Worked on practical backend projects in a collaborative environment</li>
