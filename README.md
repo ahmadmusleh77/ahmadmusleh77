@@ -1,5 +1,3 @@
-<p><script src="https://gist.github.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e.js"></script></p>
-
 <h2>👋 Hi, I'm Ahmad Musleh</h2>
 <p>
   <strong>Software Engineering Student</strong>
