@@ -3,15 +3,6 @@
   <strong>Software Engineering Student</strong>
 </p>
 
-
-<ul>
-  <li>Participated in a professional backend development training program</li>
-  <li>Worked on practical backend projects in a collaborative environment</li>
-  <li>Improved technical and teamwork skills in a real-world setting</li>
-</ul>
-
-<hr/>
-
 <h3>🛠️ Technical Skills</h3>
 
 <p><strong>Programming Languages</strong></p>
