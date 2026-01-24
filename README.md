@@ -1,137 +1,103 @@
+<h2>👋 Hi, I'm Ahmad Musleh</h2>
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  <p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
-  </p>
-</p>
-<p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
-  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-<p>
-  🎶Now playing ...🎶<br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
-  </a><br/>
-  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
+  <strong>Software Engineering Student</strong><br/>
+  Fourth-year student at An-Najah National University
 </p>
 
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
 <p>
-  🧔 Moi c'est <bold>Stan</bold>. 25 ans, barbu et un amateur de code et de 🍺.<br/>
-  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
-  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
-  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 6 ans
+  📍 Palestine – Salfeet <br/>
+  📧 s12217787@stu.najah.edu <br/>
+  📞 +972569315404
 </p>
+
+<hr/>
+
+<h3>🎓 Education</h3>
 <p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
-</p><br/>
+  <strong>An-Najah National University</strong> (2022 – Present)<br/>
+  Computer Science – Software Engineering Path
+</p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<hr/>
 
-<details>
-  <summary>Quelques statistiques ...</summary><br/>
+<h3>💼 Experience</h3>
+<p>
+  <strong>Backend Intern – Java Spring Boot</strong><br/>
+  Exalt Technologies Ltd, Nablus (07/2025 – 09/2025)
+</p>
+<ul>
+  <li>Participated in a professional backend development training program</li>
+  <li>Worked on practical backend projects in a collaborative environment</li>
+  <li>Improved technical and teamwork skills in a real-world setting</li>
+</ul>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C862%20hrs%2055%20mins-blue?style=flat)
+<hr/>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue?style=flat)
+<h3>🛠️ Technical Skills</h3>
 
-**🐱 My GitHub Data** 
+<p><strong>Programming Languages</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
-> 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 🏆 4 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
+<p><strong>Frontend</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
 
-```text
-🌞 Morning                3481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-🌆 Daytime                19890 commits       ████████████░░░░░░░░░░░░░   46.77 % 
-🌃 Evening                15231 commits       █████████░░░░░░░░░░░░░░░░   35.82 % 
-🌙 Night                  3923 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-```
-📅 **I'm Most Productive on Wednesday** 
+<p><strong>Backend</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+</p>
 
-```text
-Monday                   6553 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Tuesday                  7163 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Wednesday                9154 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Thursday                 7261 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Friday                   5879 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Saturday                 3034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Sunday                   3481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-```
+<p><strong>Databases</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
+<p><strong>Tools & Platforms</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F44D27?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-23A9F2?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHPStorm-000000?style=flat-square&logo=phpstorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white"/>
+</p>
 
-📊 **This Week I Spent My Time On** 
+<hr/>
 
-```text
-🕑︎ Time Zone: Europe/Paris
+<h3>📌 Projects</h3>
 
-💬 Programming Languages: 
-TypeScript               7 hrs 57 mins       █████████████████████░░░░   82.91 % 
-Vue.js                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+<ul>
+  <li><strong>Technician Hiring Platform (THP)</strong> – Full Stack (Angular, Laravel)</li>
+  <li><strong>Real Estate Management System</strong> – Java, JavaFX, MySQL</li>
+  <li><strong>Social Media Website (Partial)</strong> – React, Firebase</li>
+  <li><strong>Food Delivery Database System</strong> – Oracle SQL, ERD Design</li>
+</ul>
 
-🔥 Editors: 
-VS Code                  9 hrs 31 mins       █████████████████████████   99.19 % 
-Chrome                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+<hr/>
 
-💻 Operating System: 
-Mac                      9 hrs 31 mins       █████████████████████████   99.19 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-```
-
-
-
-
- Last Updated on 24/01/2026 00:10:22 UTC
-<!--END_SECTION:waka-->
-</details>
+<h3>🌐 Links</h3>
+<p>
+  <a href="https://www.linkedin.com/in/ahmad-musleh-86918b293/">LinkedIn</a> •
+  <a href="https://github.com/ahmadmusleh77">GitHub</a>
+</p>
