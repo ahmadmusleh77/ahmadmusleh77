@@ -53,21 +53,12 @@
   <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white"/>
 </p>
 
-<hr/>
-
-<h3>📌 Projects</h3>
-
-<ul>
-  <li><strong>Technician Hiring Platform (THP)</strong> – Full Stack (Angular, Laravel)</li>
-  <li><strong>Real Estate Management System</strong> – Java, JavaFX, MySQL</li>
-  <li><strong>Social Media Website (Partial)</strong> – React, Firebase</li>
-  <li><strong>Food Delivery Database System</strong> – Oracle SQL, ERD Design</li>
-</ul>
-
-<hr/>
-
 <h3>🌐 Links</h3>
 <p>
-  <a href="https://www.linkedin.com/in/ahmad-musleh-86918b293/">LinkedIn</a> •
-  <a href="https://github.com/ahmadmusleh77">GitHub</a>
+  <a href="https://www.linkedin.com/in/ahmad-musleh-86918b293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ahmadmusleh77" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
