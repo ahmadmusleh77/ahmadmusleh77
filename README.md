@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Ahmad Musleh</h2>
+<h2> Hi, I'm Ahmad Musleh</h2>
 <p>
   <strong>Software Engineering Student</strong>
 </p>
@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 
-<h3>🛠️ Technical Skills</h3>
+<h3> Technical Skills</h3>
 
 <p><strong>Programming Languages</strong></p>
 <p>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white"/>
 </p>
 
-<h3>🌐 Links</h3>
+<h3> Links</h3>
 <p>
   <a href="https://www.linkedin.com/in/ahmad-musleh-86918b293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
